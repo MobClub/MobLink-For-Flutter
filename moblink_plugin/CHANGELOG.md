@@ -14,3 +14,6 @@
 
 ## 3.4.5
 * Structural optimization
+
+## 3.4.6
+* function optimization
