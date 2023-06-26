@@ -17,3 +17,6 @@
 
 ## 3.4.6
 * function optimization
+
+## 3.4.7
+* function optimization
