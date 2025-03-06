@@ -20,3 +20,6 @@
 
 ## 3.4.7
 * function optimization
+
+## 3.4.8
+* 适配Gradle8.0+ namespace
